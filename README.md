@@ -1,2 +1,6 @@
-# devops-ac01
-Atividade 1
+# Ferramentas de controle de versão:
+
+* Mercurial
+* GitHub
+* Subversion
+* CVS
